@@ -53,3 +53,22 @@
 **Technology used:** SQL server
 
 # Project 3
+
+**Title:**  Cookies Companies Analytics Report
+
+**Tools Used:** Power BI Desktop (Power Query, DAX, Data Modeling, Cross-Filtering, Interactive Visualizations)
+
+**Project Description:** This project features an interactive enterprise business intelligence dashboard developed in Power BI to evaluate global sales performance, operational cost structures, and product distribution for a multi-regional confectionery brand. Utilizing advanced data modeling practices, raw cross-border commercial transactions were consolidated and refined to establish clear operational visibility. The analytical asset empowers executive leadership to monitor profitability thresholds, evaluate regional supply chain costs, analyze product mix demands, and make data-backed inventory and marketing adjustments.
+
+**Key findings:**
+
+*• High Profit Margin Operations:* Global operations achieved 4.69M in Total Sales against a Total Cost of 2M, retaining an impressive 2.76M in Total Profit across 1.13M units sold.
+
+*• Primary Geographic Market Leader:* Canada stands out as the most dominant country market, generating the highest total volume, revenue, and net profit margins among all international territories.
+
+*• Top Revenue and Volume Drivers:* The Chocolate Chip product variety is the clear organizational anchor, heavily outperforming all other lines in total volume sold globally, while White Chocolate Macadamia Nut represents a significant high-value product line.
+
+*• Stable International Product Mix:* While regional volumes vary, the structural ratio of the Product Mix by Country remains highly balanced, indicating uniform consumer tastes across Canada, France, Germany, Mexico, and the United States.
+
+
+**Dashboard Overview:** 
