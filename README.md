@@ -71,4 +71,8 @@
 *• Stable International Product Mix:* While regional volumes vary, the structural ratio of the Product Mix by Country remains highly balanced, indicating uniform consumer tastes across Canada, France, Germany, Mexico, and the United States.
 
 
-**Dashboard Overview:** 
+**Dashboard Overview:**
+
+The layout is optimized into a cohesive, dark-themed command interface structured into logical grids for maximum scannability.
+
+**Interactive Control Filters (Left Sidebar):** Features a flexible Date Timeline Range Slider (set between 9/1/2018 and 12/1/2019) alongside a dedicated multi-select Product Slicer containing core categorical items (Chocolate Chip, Fortune Cookie, Oatmeal Raisin, Snickerdoodle, Sugar, White Chocolate Macadamia Nut).
