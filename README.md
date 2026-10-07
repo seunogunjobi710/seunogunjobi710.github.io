@@ -24,6 +24,7 @@
 
 **- Segment Breakdown (Far Right Panels):** Includes auxiliary filters and data groupings dedicated to Customer Segment, Sales Channel, and Product Category.
 
+[Ecommerce excel file](https://docs.google.com/spreadsheets/d/1ghH6-V5MQ8T7-P5tpX2dVQIiLVQ0En2g/edit?usp=drive_link&ouid=106309558294565871324&rtpof=true&sd=true)
 
 ![Ecommerce](Ecommerce.png)
 
