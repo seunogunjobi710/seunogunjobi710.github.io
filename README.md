@@ -50,3 +50,5 @@
 **Project Description:** This project focuses on a comprehensive relational database interrogation of enterprise Workplace Safety Data using Microsoft SQL Server. The objective is to extract strategic, data-driven safety insights from raw operational logs. By executing aggregate queries, conditional filtering, and structural sorting, the scripts uncover underlying patterns regarding incident frequencies, financial liabilities, regional exposures, and demographic risk factors. These queries transform standard safety logs into actionable intelligence, enabling safety officers to optimize risk mitigation protocols, balance shift workloads, and minimize organizational financial losses.
 
 **Technology used:** SQL server
+
+# Project 3
