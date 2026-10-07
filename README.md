@@ -20,6 +20,11 @@
 
 **Dashboard Overview:** The layout is structured into highly scannable grid components divided by strategic business pillars:
 
+**- Interactive Filters (Left Panel):** Includes multi-select Slicers and Timelines for Order Date, Shipping Method, Customer Type, and Region, allowing users to dynamically slice data across the entire sheet.
+
+**- Segment Breakdown (Far Right Panels):** Includes auxiliary filters and data groupings dedicated to Customer Segment, Sales Channel, and Product Category.
+
+
 ![Ecommerce](Ecommerce.png)
 
 # Project 2
@@ -30,14 +35,18 @@
 
 **SQL Skills Used:**
 
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
+**- Data Retrieval (SELECT):** Queried and extracted specific information from the database.
 
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+**- Data Aggregation (SUM, COUNT, AVG):** Calculated total financial impacts, frequency metrics, and performance averages to benchmark safety data trends.
 
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+**- Data Filtering (WHERE, BETWEEN, IN, AND):** Applied logic constraints to filter out specific subsets of data, matching exact string identifiers like incident types and report classifications.
 
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+**- Data Source Specification (FROM):** Specified the tables used as data sources for retrieval
 
-**Project Description:**
+**- Data Sorting & Limiting (ORDER BY, TOP):** Organized data subsets sequentially and restricted outputs to extract extreme boundary values (e.g., highest costs, most frequent occurrences).
+
+**- Data Categorization (GROUP BY):** Segmented records across operational variables such as plants, shifts, departments, age groups, and timeline markers.
+
+**Project Description:** This project focuses on a comprehensive relational database interrogation of enterprise Workplace Safety Data using Microsoft SQL Server. The objective is to extract strategic, data-driven safety insights from raw operational logs. By executing aggregate queries, conditional filtering, and structural sorting, the scripts uncover underlying patterns regarding incident frequencies, financial liabilities, regional exposures, and demographic risk factors. These queries transform standard safety logs into actionable intelligence, enabling safety officers to optimize risk mitigation protocols, balance shift workloads, and minimize organizational financial losses.
 
 **Technology used:** SQL server
