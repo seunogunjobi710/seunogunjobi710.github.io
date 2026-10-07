@@ -77,7 +77,7 @@ The layout is optimized into a cohesive, dark-themed command interface structure
 
 **Interactive Control Filters (Left Sidebar):** Features a flexible Date Timeline Range Slider (set between 9/1/2018 and 12/1/2019) alongside a dedicated multi-select Product Slicer containing core categorical items (Chocolate Chip, Fortune Cookie, Oatmeal Raisin, Snickerdoodle, Sugar, White Chocolate Macadamia Nut).
 
-[Cookies_Analytics_file](https://github.com/seunogunjobi710/seunogunjobi710.github.io/blob/main/Cookies%20Company%20Analytics.pbix)
+[Cookies_Analytics_file](https://bit.ly/47wofOn)
 
 
 ![Cookies_Analytics](cookies_analytics.png)
