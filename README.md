@@ -57,7 +57,7 @@
 
 **Title:** Employee data Interrogation & Manipulation 
 
-**SQL Code:** [Employee data Interrogation & Manipulation](](https://github.com/seunogunjobi710/seunogunjobi710.github.io/blob/main/Employeedatabase.sql))
+**SQL Code:** [Employee data Interrogation & Manipulation](https://github.com/seunogunjobi710/seunogunjobi710.github.io/blob/main/Employeedatabase.sql))
 
 **SQL Skills Used:**
 
