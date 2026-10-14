@@ -137,7 +137,7 @@ The layout is optimized into a cohesive, dark-themed command interface structure
 
 **Interactive Control Filters (Left Sidebar):**  Features a responsive dual-node temporal date range component alongside multi-layered shipping option filters and a dedicated, grid-mapped Sub-Category button matrix (Accessories, Appliances, Art, Binders, Bookcases, Chairs, Copiers, Envelopes, Fasteners, Furnishings) for granular product drills.
 
-[Cookies_Analytics_file](https://bit.ly/47wofOn)
+[Cookies_Analytics_file]()
 
 
-![Cookies_Analytics](Global_Superstore.png)
+![Global Superstore](Global_Superstore.png)
