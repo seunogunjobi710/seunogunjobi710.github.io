@@ -112,7 +112,7 @@ The layout is optimized into a cohesive, dark-themed command interface structure
 ![Cookies_Analytics](cookies_analytics.png)
 
 
-# Project 4
+# Project 5
 
 **Title:**  Global Superstore Sales Perdormance Dashboard
 
@@ -140,4 +140,4 @@ The layout is optimized into a cohesive, dark-themed command interface structure
 [Cookies_Analytics_file](https://bit.ly/47wofOn)
 
 
-![Cookies_Analytics](cookies_analytics.png)
+![Cookies_Analytics](Global_Superstore.png)
