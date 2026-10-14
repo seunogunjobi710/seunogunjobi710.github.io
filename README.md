@@ -110,3 +110,34 @@ The layout is optimized into a cohesive, dark-themed command interface structure
 
 
 ![Cookies_Analytics](cookies_analytics.png)
+
+
+# Project 4
+
+**Title:**  Global Superstore Sales Perdormance Dashboard
+
+**Tools Used:** Power BI Desktop (Power Query, DAX, Data Modeling, Cross-Filtering, Interactive Visualizations)
+
+**Project Description:** This project focuses on a comprehensive relational database integration and reporting system of global retail performance metrics inside Power BI Desktop. The objective is to extract strategic, data-driven supply chain insights from raw international transaction logs. By integrating dynamic timeline slicing, demographic regional sorting, and top-tier cost filtering, the dashboard uncovers hidden patterns regarding sales velocity, profitability margins, cross-border liabilities, and commercial freight distribution patterns. These visual assets transform standard transaction tables into an intuitive executive command module, enabling corporate leadership and supply chain directors to stabilize localized operating costs, rebalance inventory allocations, and maximize cross-border profitability.
+
+**Key findings:**
+
+*• High-Volume Capital Retention:* Global operations successfully cleared 178K orders, driving an enterprise Total Sales volume of 12.64M while sustaining an operational cost value of 11.18M to lock in 1.47M in net profit.
+
+*• Dominant Commercial Product Categories:* The Technology division stands out as the primary organizational revenue anchor, capturing 37.53% (4.74M) of global sales, closely shadowed by Office Supplies at 32.51% (4.11M) and Furniture at 29.96% (3.79M).
+
+*• Primary Geographic Volume Leaders::* The Asia Pacific and Europe regional markets represent the brand's primary geographic distribution hubs, moving the highest sequential quantities of goods globally with 41K and 42K units respectively.
+
+*• Outlier Operating Liabilities:* The United States stands out as the most dominant country by operating cost, heavily generating higher structural expenses compared to secondary operational zones like Australia, France, and China.
+
+
+**Dashboard Overview:**
+
+The layout is optimized into a cohesive, dark-themed command interface structured into logical grids for maximum scannability.
+
+**Interactive Control Filters (Left Sidebar):**  Features a responsive dual-node temporal date range component alongside multi-layered shipping option filters and a dedicated, grid-mapped Sub-Category button matrix (Accessories, Appliances, Art, Binders, Bookcases, Chairs, Copiers, Envelopes, Fasteners, Furnishings) for granular product drills.
+
+[Cookies_Analytics_file](https://bit.ly/47wofOn)
+
+
+![Cookies_Analytics](cookies_analytics.png)
