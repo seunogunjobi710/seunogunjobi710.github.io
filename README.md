@@ -17,7 +17,6 @@
 
 **- High-Performing Product Categories:** Sports & Outdoors closely trailed by Health & Wellness emerged as the top product varieties by category volume, capturing a massive share of the inventory movement.
 
-
 **Dashboard Overview:** The layout is structured into highly scannable grid components divided by strategic business pillars:
 
 **- Interactive Filters (Left Panel):** Includes multi-select Slicers and Timelines for Order Date, Shipping Method, Customer Type, and Region, allowing users to dynamically slice data across the entire sheet.
@@ -52,7 +51,6 @@
 
 **Technology used:** SQL server
 
-
 # Project 3
 
 **Title:** Employee data Interrogation & Manipulation 
@@ -82,8 +80,6 @@
 **Project Description:** This project focuses on a comprehensive relational database interrogation of corporate HR metrics using Microsoft SQL Server. The objective is to extract strategic, data-driven workforce insights from raw operational logs. By executing aggregate queries, conditional filtering, structural sorting, and string cleaning, the scripts uncover underlying patterns regarding organizational structures, departmental distributions, financial allocations, and age demographics. These queries transform standard employee master tables into actionable intelligence, enabling operations managers to optimize resource distribution, identify key workforce shifts, and streamline organizational data reporting.
 
 **Technology used:** SQL server
-
-
 
 # Project 4
 
