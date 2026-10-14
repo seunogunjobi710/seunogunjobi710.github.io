@@ -52,7 +52,40 @@
 
 **Technology used:** SQL server
 
+
 # Project 3
+
+**Title:** Employee data Interrogation & Manipulation 
+
+**SQL Code:** [Employee data Interrogation & Manipulation](](https://github.com/seunogunjobi710/seunogunjobi710.github.io/blob/main/Employeedatabase.sql))
+
+**SQL Skills Used:**
+
+**- Data Retrieval (SELECT):** Queried and extracted specific information from the database.
+
+**- Data Aggregation (COUNT):** Calculated total volumes, department distributions, and gender frequencies to benchmark workforce patterns.
+
+**- Data Filtering (WHERE, BETWEEN, IN, LIKE, AND):**  Applied logic constraints to isolate subsets of data, matching exact string patterns, alphanumeric structures, and birthdate timelines.
+
+**- Data Source Specification (FROM):** Specified the tables used as data sources for retrieval
+
+**- Data Sorting & Limiting (ORDER BY, TOP):** Organized data subsets sequentially and restricted outputs to extract extreme boundary values (e.g., top salary packages).
+
+**- Data Categorization (GROUP BY):** Segmented records across operational variables such as departments, genders, and birth year brackets.
+
+**- String Manipulation Functions::** Applied built-in formatting functions (UPPER, LEFT, RTRIM, CHARINDEX, CONCAT) for cleaning and reshaping text attributes
+
+**- Advanced Analytics (CTEs & Window Functions):** Deployed Common Table Expressions and RANK() OVER() variations to isolate structural outliers and multi-layered data points.
+
+**- Data Control & DDL Operations:**Cloned active database subsets and schemas programmatically using SELECT INTO commands.
+
+**Project Description:** This project focuses on a comprehensive relational database interrogation of corporate HR metrics using Microsoft SQL Server. The objective is to extract strategic, data-driven workforce insights from raw operational logs. By executing aggregate queries, conditional filtering, structural sorting, and string cleaning, the scripts uncover underlying patterns regarding organizational structures, departmental distributions, financial allocations, and age demographics. These queries transform standard employee master tables into actionable intelligence, enabling operations managers to optimize resource distribution, identify key workforce shifts, and streamline organizational data reporting.
+
+**Technology used:** SQL server
+
+
+
+# Project 4
 
 **Title:**  Cookies Companies Analytics Report
 
